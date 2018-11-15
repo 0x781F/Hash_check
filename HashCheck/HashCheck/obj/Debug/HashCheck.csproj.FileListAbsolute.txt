@@ -1,0 +1,10 @@
+C:\VSrepos\HashCheck\HashCheck\obj\Debug\HashCheck.Form1.resources
+C:\VSrepos\HashCheck\HashCheck\obj\Debug\HashCheck.csproj.GenerateResource.Cache
+C:\VSrepos\HashCheck\HashCheck\obj\Debug\HashCheck.csproj.CoreCompileInputs.cache
+C:\VSrepos\HashCheck\HashCheck\obj\Debug\HashCheck.csprojResolveAssemblyReference.cache
+C:\VSrepos\HashCheck\HashCheck\bin\Debug\781F_PwnCheck.exe.config
+C:\VSrepos\HashCheck\HashCheck\bin\Debug\781F_PwnCheck.exe
+C:\VSrepos\HashCheck\HashCheck\bin\Debug\781F_PwnCheck.pdb
+C:\VSrepos\HashCheck\HashCheck\obj\Debug\HashCheck.Properties.Resources.resources
+C:\VSrepos\HashCheck\HashCheck\obj\Debug\781F_PwnCheck.exe
+C:\VSrepos\HashCheck\HashCheck\obj\Debug\781F_PwnCheck.pdb
